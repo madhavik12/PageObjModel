@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18886" started-at="2017-06-27T23:34:33Z" finished-at="2017-06-27T23:34:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18886" started-at="2017-06-27T23:34:33Z" finished-at="2017-06-27T23:34:52Z">
+      <class name="tests.MyTestRunner">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="beforeClass" is-config="true" duration-ms="13978" started-at="2017-06-28T00:34:33Z" finished-at="2017-06-28T00:34:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verifyBBCHomeTest()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="verifyBBCHomeTest" duration-ms="4771" started-at="2017-06-28T00:34:47Z" finished-at="2017-06-28T00:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBBCHomeTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="afterClass" is-config="true" duration-ms="114" started-at="2017-06-28T00:34:52Z" finished-at="2017-06-28T00:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.MyTestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
