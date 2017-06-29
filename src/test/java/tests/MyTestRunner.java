@@ -25,13 +25,13 @@ public class MyTestRunner {
   
  
   @BeforeClass
-  public void beforeClass() {
+  public void setUp() {
 	  bmain.openBrowser();
 	  
   }
 
   @AfterClass
-  public void afterClass() {
+  public void tearDown() {
 	  bmain.closeBrowser();
   }
 

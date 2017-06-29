@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18886" started-at="2017-06-27T23:34:33Z" finished-at="2017-06-27T23:34:52Z">
+  <suite name="Suite" duration-ms="15955" started-at="2017-06-28T23:38:35Z" finished-at="2017-06-28T23:38:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="18886" started-at="2017-06-27T23:34:33Z" finished-at="2017-06-27T23:34:52Z">
+    <test name="Test" duration-ms="15955" started-at="2017-06-28T23:38:35Z" finished-at="2017-06-28T23:38:51Z">
       <class name="tests.MyTestRunner">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="beforeClass" is-config="true" duration-ms="13978" started-at="2017-06-28T00:34:33Z" finished-at="2017-06-28T00:34:47Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="beforeClass" is-config="true" duration-ms="10383" started-at="2017-06-29T00:38:35Z" finished-at="2017-06-29T00:38:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="verifyBBCHomeTest()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="verifyBBCHomeTest" duration-ms="4771" started-at="2017-06-28T00:34:47Z" finished-at="2017-06-28T00:34:52Z">
+        <test-method status="PASS" signature="verifyBBCHomeTest()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="verifyBBCHomeTest" duration-ms="2326" started-at="2017-06-29T00:38:46Z" finished-at="2017-06-29T00:38:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyBBCHomeTest -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="afterClass" is-config="true" duration-ms="114" started-at="2017-06-28T00:34:52Z" finished-at="2017-06-28T00:34:52Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.MyTestRunner@146e1f4]" name="afterClass" is-config="true" duration-ms="3226" started-at="2017-06-29T00:38:48Z" finished-at="2017-06-29T00:38:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
